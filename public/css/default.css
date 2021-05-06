@@ -1,0 +1,10 @@
+.navbar-brand div{
+  font-size: 9px;
+  color: #FF5733;
+}
+/***********************CARRUSEL INICIO***********************/
+.contenido_carrusel .bx-wrapper{
+  height: 500px;
+  overflow: hidden;
+}
+/*************************************************************/
